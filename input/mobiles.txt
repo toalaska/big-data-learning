@@ -1,0 +1,7 @@
+xiaomi 1
+huawei 2
+iphone 3
+iphone 3
+xiaomi 1
+huawei 2
+iphone 3

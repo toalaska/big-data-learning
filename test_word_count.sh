@@ -1,0 +1,1 @@
+#mvn clean packagehadoop jar target/hadoop-1.0-SNAPSHOT.jar net.toalaska.Apphadoop fs -cat /haha/word_count_out/part-r-00000
